@@ -1,6 +1,7 @@
 # Retrieval Augmented Generative AI for NUM documents
 # "МУИС-ийн дүрэм журмыг тайлбарлах ухаалаг туслах" 
 Undergraduate Thesis / Бакалаврын судалгааны ажил
+
 Computer Science / Компьютерын ухаан (D061301)
 
 ## The aim of this research work is to apply the RAG method to Mongolian language data and explore ways to improve its results.
